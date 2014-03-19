@@ -1,5 +1,5 @@
 <h2>Overview</h2>
-<p>An Angular.js directive that provides a wrapper for the jQuery Flot Chart library.<br />
+<p><strong>Flang</strong> is an Angular.js directive that provides a wrapper for the jQuery Flot Chart library.<br />
 Created/Maintained by Erik August Johnson</p>
 
 <p>Current Version: 0.7.0
