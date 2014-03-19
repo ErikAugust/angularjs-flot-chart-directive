@@ -2,8 +2,8 @@
 <p><strong>Flang</strong> is an Angular.js directive that provides a wrapper for the jQuery Flot Chart library.<br />
 Created/Maintained by Erik August Johnson</p>
 
-<p>Current Version: 0.7.0
-Check out example at Example at http://flang.erikaugust.com<br />
+<p>Current Version: 0.7.0<br />
+Example at http://flang.erikaugust.com<br />
 Current chart types (chart-type attribute): pie, bar</p>
 
 <p><strong>Version 0.8 will include:</strong><br />
